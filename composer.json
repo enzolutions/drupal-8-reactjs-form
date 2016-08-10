@@ -1,0 +1,14 @@
+{
+  "name": "drupal/mysearch",
+  "type": "drupal-module",
+  "description": "My custom search using react",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/mysearch",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/mysearch",
+    "source": "http://cgit.drupalcode.org/mysearch"
+  },
+  "require": { }
+}

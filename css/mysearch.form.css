@@ -1,0 +1,18 @@
+.SearchForm {
+    padding: 8px 24px;
+}
+.SearchForm > input,
+.SearchForm > textarea,
+.SearchForm > select {
+    display: block;
+    width: 240px;
+    padding: 4px 8px;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    border: 1px solid #888;
+    font-size: 14px;
+}
+
+.ContactForm > input.ContactForm-error {
+    border-color: #b30e2f;
+}

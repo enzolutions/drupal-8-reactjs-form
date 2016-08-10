@@ -1,0 +1,8 @@
+
+mysearch.react_j_s_form_controller_form:
+  path: '/mysearch'
+  defaults:
+    _controller: '\Drupal\mysearch\Controller\ReactJSFormController::form'
+    _title: 'MySearch'
+  requirements:
+    _permission: 'access content'

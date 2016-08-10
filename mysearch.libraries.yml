@@ -1,0 +1,23 @@
+react.min:
+  version: VERSION
+  js:
+    /libraries/reactjs/build/react.min.js: {}
+
+react:
+  version: VERSION
+  js:
+    /libraries/reactjs/build/react.js: {}
+
+
+react.dom.min:
+  version: VERSION
+  js:
+    /libraries/reactjs/build/react-dom.min.js: {}
+
+react.form:
+  version: VERSION
+  js:
+    js/mysearch.form.js: {}
+  css:
+    theme:
+      css/mysearch.form.css: {}

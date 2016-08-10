@@ -1,0 +1,5 @@
+name: MySearch
+type: module
+description: My custom search using react
+core: 8.x
+package: Anexus
