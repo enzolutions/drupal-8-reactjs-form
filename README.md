@@ -23,7 +23,9 @@ $ drupal site:install
 Inside your Drupal web directory run the following commands
 
 ```
+$ cd /path/to/drupal/web
 $ mkdir -p libraries/reactjs/build
+$ cd libraries/reactjs/build
 $ wget https://unpkg.com/react@15/dist/react.js
 $ wget https://unpkg.com/react@15/dist/react.min.js
 $ wget https://unpkg.com/react-dom@15/dist/react-dom.js
